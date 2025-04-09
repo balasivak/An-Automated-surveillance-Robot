@@ -63,6 +63,3 @@ Feel free to fork this repository, make improvements, and create pull requests. 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or suggestions, please reach out to [Chaitanya](chaitanyanagasai143@gmail.com).
